@@ -11,16 +11,16 @@
             "rating": "70"
         },
         {
-            "title": "Data science
+            "title": "Data science",
             "rating": "85"
         },{
-            "title": "Web development
+            "title": "Web development",
             "rating": "90"
         }
     ],
     "contact": {
-        "location": "Lovely professional university"
-        "phone": "7737186704
+        "location": "Lovely professional university",
+        "phone": "7737186704",
         "email": "myselfshubhamkeshri@gmail.com"
     }
 }
